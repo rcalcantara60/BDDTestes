@@ -1,0 +1,6 @@
+C:\Users\Rodrigo\source\repos\BDDTestes\TesteBDDFullFramework\bin\Debug\TesteBDDFullFramework.dll
+C:\Users\Rodrigo\source\repos\BDDTestes\TesteBDDFullFramework\bin\Debug\TesteBDDFullFramework.pdb
+C:\Users\Rodrigo\source\repos\BDDTestes\TesteBDDFullFramework\obj\Debug\TesteBDDFullFramework.csprojAssemblyReference.cache
+C:\Users\Rodrigo\source\repos\BDDTestes\TesteBDDFullFramework\obj\Debug\TesteBDDFullFramework.csproj.CoreCompileInputs.cache
+C:\Users\Rodrigo\source\repos\BDDTestes\TesteBDDFullFramework\obj\Debug\TesteBDDFullFramework.dll
+C:\Users\Rodrigo\source\repos\BDDTestes\TesteBDDFullFramework\obj\Debug\TesteBDDFullFramework.pdb
